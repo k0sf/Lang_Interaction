@@ -3,7 +3,7 @@ Interactive demonstration in each language
 
 ## progress rate
 
-- [ ] QT-CALL-GOLANG
+- [x] QT-CALL-GOLANG
 - [ ] CPP-CALL-GOLANG
 - [ ] CPP-CALL-PYTHON
 - ...
